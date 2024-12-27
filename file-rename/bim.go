@@ -5,5 +5,5 @@ import (
 )
 
 func bar() {
-	fmt.Println("Hello!")
+	fmt.Println("Goodbye!")
 }
